@@ -4,10 +4,10 @@
 1. [ ] [📁 Project Setup](https://github.com/mrajkishor/ecommerce-application/issues/1)  
    _Set up monorepo, Docker, Kubernetes configs, base folder structure._
 
-2. [ ] [🚀 API Gateway](https://github.com/mrajkishor/ecommerce-application/issues/4)  
+2. [ ] [🚀 API Gateway](https://github.com/mrajkishor/ecommerce-application/issues/2)  
    _Acts as the entry point — must be in place before exposing any services._
 
-3. [ ] [🔐 Auth Service (Node.js)](https://github.com/mrajkishor/ecommerce-application/issues/2)  
+3. [ ] [🔐 Auth Service (Node.js)](https://github.com/mrajkishor/ecommerce-application/issues/4)  
    _Authentication and token issuance for securing other services._
 
 4. [ ] [👤 User Service (Java)](https://github.com/mrajkishor/ecommerce-application/issues/3)  
